@@ -35,3 +35,8 @@
 	position: relative;
 	top: 2px;
 }
+
+.reactive-table-filter .close.form-control-feedback {
+    line-height: 34px;
+    top: 0;
+}
